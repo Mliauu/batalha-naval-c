@@ -1,2 +1,1 @@
-# batalha-naval-c
-Trabalho Faculdade ADS
+Trabalho Faculdade.
