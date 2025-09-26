@@ -1,0 +1,19 @@
+## 🎯 Objetivos
+- Aplicar o conceito de vetores e matrizes em linguagem C para representar um tabuleiro de Batalha Naval.
+- Aplicar estruturas de repetição aninhadas (loops) para construir e exibir o tabuleiro.
+- Aplicar condicionais para simular áreas de efeito de habilidades especiais.
+
+## 📖 Introdução
+Este projeto simula a construção de um jogo Batalha Naval em três módulos (Novato, Aventureiro e Mestre),
+explorando vetores, matrizes, loops e condicionais na linguagem C.
+
+## 🧩 Estrutura do Projeto
+- `src/modulo1_novato.c` → Tabuleiro simples usando vetor.
+- `src/modulo2_aventureiro.c` → Tabuleiro usando matrizes e navios em diagonal.
+- `src/modulo3_mestre.c` → Habilidades especiais (cruz, cone etc.).
+
+## ▶️ Como Executar
+1. Compile o arquivo desejado:
+   ```bash
+   gcc src/modulo1_novato.c -o modulo1
+   ./modulo1
